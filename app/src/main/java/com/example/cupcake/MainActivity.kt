@@ -44,6 +44,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main){
         setupActionBarWithNavController(navController)
         appContext = this
 		//bruh moment 2
+        //joe mama
     }
 
     /**
