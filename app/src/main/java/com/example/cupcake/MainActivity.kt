@@ -43,6 +43,7 @@ class MainActivity : AppCompatActivity(R.layout.activity_main){
         // Set up the action bar for use with the NavController
         setupActionBarWithNavController(navController)
         appContext = this
+		//bruh moment
     }
 
     /**
